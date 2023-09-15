@@ -1,0 +1,4 @@
+---
+- name: Fixing yaml code
+  hosts: all
+
